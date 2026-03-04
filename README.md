@@ -25,7 +25,7 @@ Este é um script de Web Scraping desenvolvido em Python para extrair oportunida
 ### Passo a passo
 
 1. Clone este repositório para o seu computador:
-   > git clone https://github.com/SEU_USUARIO/automated-data-extractor.git
+   > git clone https://github.com/SEU_USUARIO/Extrator-de-dados-automatizado  
 
 2. Entre na pasta do projeto:
    > cd automated-data-extractor
