@@ -28,7 +28,7 @@ Este é um script de Web Scraping desenvolvido em Python para extrair oportunida
    > git clone https://github.com/SEU_USUARIO/Extrator-de-dados-automatizado  
 
 2. Entre na pasta do projeto:
-   > cd automated-data-extractor
+   > cd Extrator-de-dados-automatizado 
 
 3. Instale a biblioteca do Selenium:
    > pip install selenium
