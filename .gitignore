@@ -1,0 +1,5 @@
+# Ignorar arquivos de dados gerados pelo robô
+*.csv
+
+# Ignorar pastas temporárias que o Python cria sozinho
+__pycache__/
